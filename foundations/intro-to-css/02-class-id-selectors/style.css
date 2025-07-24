@@ -1,0 +1,19 @@
+.odd {
+    background-color: #FFCCCB;
+    font-family: "DeJavu Sans", Verdana, sans-serif;
+}
+
+#no2 {
+    color: #000fc0;
+    font-size: 36px;
+}
+
+.font-adjust{
+    font-size: 24px;
+}
+
+#no4 {
+    background-color: hsl(125, 100%, 80%);
+    font-size: 24px;
+    font-weight: bold;
+}
